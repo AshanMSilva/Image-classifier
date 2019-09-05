@@ -77,8 +77,8 @@ def get_data_y(location):
 
 save_data_x(x)
 save_data_y(y)
-#z = get_data_y("y.pickle")
-#print(z[1])
+z = get_data_y("y.pickle")
+print(z[1])
 
 
 
